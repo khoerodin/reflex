@@ -70,3 +70,5 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "stimulus_reflex", "= 3.5.0.rc3"
